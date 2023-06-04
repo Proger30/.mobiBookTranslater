@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta content="3020529534" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Operating Systems: From 0 to 1</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>Contents</text>
+    </navLabel>
+    <content src="book.html#filepos301"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>Preface</text>
+    </navLabel>
+    <content src="book.html#filepos19159"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>I Preliminary</text>
+    </navLabel>
+    <content src="book.html#filepos32544"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>1 Domain documents</text>
+    </navLabel>
+    <content src="book.html#filepos32647"/>
+    </navPoint>
+    <navPoint id="np_5" playOrder="5">
+    <navLabel>
+    <text>1.2 Documents for implementing a problem domain</text>
+    </navLabel>
+    <content src="book.html#filepos39218"/>
+    </navPoint>
+    <navPoint id="np_6" playOrder="6">
+    <navLabel>
+    <text>1.3 Documents for writing an x86 Operating System</text>
+    </navLabel>
+    <content src="book.html#filepos46844"/>
+    </navPoint>
+    <navPoint id="np_7" playOrder="7">
+    <navLabel>
+    <text>2 From hardware to software: Layers of abstraction</text>
+    </navLabel>
+    <content src="book.html#filepos49797"/>
+    </navPoint>
+    <navPoint id="np_8" playOrder="8">
+    <navLabel>
+    <text>2.2 Beyond transistors: digital logic gates</text>
+    </navLabel>
+    <content src="book.html#filepos51195"/>
+    </navPoint>
+    <navPoint id="np_9" playOrder="9">
+    <navLabel>
+    <text>2.3 Beyond Logic Gates: Machine Language</text>
+    </navLabel>
+    <content src="book.html#filepos67491"/>
+    </navPoint>
+    <navPoint id="np_10" playOrder="10">
+    <navLabel>
+    <text>2.4 Abstraction</text>
+    </navLabel>
+    <content src="book.html#filepos96782"/>
+    </navPoint>
+    <navPoint id="np_11" playOrder="11">
+    <navLabel>
+    <text>3 Computer Architecture</text>
+    </navLabel>
+    <content src="book.html#filepos108871"/>
+    </navPoint>
+    <navPoint id="np_12" playOrder="12">
+    <navLabel>
+    <text>3.2 Computer Architecture</text>
+    </navLabel>
+    <content src="book.html#filepos127840"/>
+    </navPoint>
+    <navPoint id="np_13" playOrder="13">
+    <navLabel>
+    <text>3.3 x86 architecture</text>
+    </navLabel>
+    <content src="book.html#filepos140936"/>
+    </navPoint>
+    <navPoint id="np_14" playOrder="14">
+    <navLabel>
+    <text>3.4 Intel Q35 Chipset</text>
+    </navLabel>
+    <content src="book.html#filepos147832"/>
+    </navPoint>
+    <navPoint id="np_15" playOrder="15">
+    <navLabel>
+    <text>4 x86 Assembly and C</text>
+    </navLabel>
+    <content src="book.html#filepos149943"/>
+    </navPoint>
+    <navPoint id="np_16" playOrder="16">
+    <navLabel>
+    <text>4.1 objdump</text>
+    </navLabel>
+    <content src="book.html#filepos151594"/>
+    </navPoint>
+    <navPoint id="np_17" playOrder="17">
+    <navLabel>
+    <text>4.2 Reading the output</text>
+    </navLabel>
+    <content src="book.html#filepos153494"/>
+    </navPoint>
+    <navPoint id="np_18" playOrder="18">
+    <navLabel>
+    <text>4.3 Intel manuals</text>
+    </navLabel>
+    <content src="book.html#filepos157688"/>
+    </navPoint>
+    <navPoint id="np_19" playOrder="19">
+    <navLabel>
+    <text>4.4 Experiment with assembly code</text>
+    </navLabel>
+    <content src="book.html#filepos160699"/>
+    </navPoint>
+    <navPoint id="np_20" playOrder="20">
+    <navLabel>
+    <text>4.5 Anatomy of an Assembly Instruction</text>
+    </navLabel>
+    <content src="book.html#filepos166809"/>
+    </navPoint>
+    <navPoint id="np_21" playOrder="21">
+    <navLabel>
+    <text>4.6 Understand an instruction in detail</text>
+    </navLabel>
+    <content src="book.html#filepos225809"/>
+    </navPoint>
+    <navPoint id="np_22" playOrder="22">
+    <navLabel>
+    <text>4.7 Example: jmp instruction</text>
+    </navLabel>
+    <content src="book.html#filepos233869"/>
+    </navPoint>
+    <navPoint id="np_23" playOrder="23">
+    <navLabel>
+    <text>4.8 Examine compiled data</text>
+    </navLabel>
+    <content src="book.html#filepos245992"/>
+    </navPoint>
+    <navPoint id="np_24" playOrder="24">
+    <navLabel>
+    <text>4.9 Examine compiled code</text>
+    </navLabel>
+    <content src="book.html#filepos283477"/>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>5 The Anatomy of a Program</text>
+    </navLabel>
+    <content src="book.html#filepos344661"/>
+    </navPoint>
+    <navPoint id="np_26" playOrder="26">
+    <navLabel>
+    <text>5.1 Reference documents:</text>
+    </navLabel>
+    <content src="book.html#filepos348998"/>
+    </navPoint>
+    <navPoint id="np_27" playOrder="27">
+    <navLabel>
+    <text>5.3 Section header table</text>
+    </navLabel>
+    <content src="book.html#filepos360914"/>
+    </navPoint>
+    <navPoint id="np_28" playOrder="28">
+    <navLabel>
+    <text>5.4 Understand Section in-depth</text>
+    </navLabel>
+    <content src="book.html#filepos384929"/>
+    </navPoint>
+    <navPoint id="np_29" playOrder="29">
+    <navLabel>
+    <text>5.5 Program header table</text>
+    </navLabel>
+    <content src="book.html#filepos444786"/>
+    </navPoint>
+    <navPoint id="np_30" playOrder="30">
+    <navLabel>
+    <text>5.6 Segments vs sections</text>
+    </navLabel>
+    <content src="book.html#filepos454498"/>
+    </navPoint>
+    <navPoint id="np_31" playOrder="31">
+    <navLabel>
+    <text>6 Runtime inspection and debug</text>
+    </navLabel>
+    <content src="book.html#filepos481111"/>
+    </navPoint>
+    <navPoint id="np_32" playOrder="32">
+    <navLabel>
+    <text>6.2 Static inspection of a program</text>
+    </navLabel>
+    <content src="book.html#filepos482462"/>
+    </navPoint>
+    <navPoint id="np_33" playOrder="33">
+    <navLabel>
+    <text>6.3 Runtime inspection of a program</text>
+    </navLabel>
+    <content src="book.html#filepos510333"/>
+    </navPoint>
+    <navPoint id="np_34" playOrder="34">
+    <navLabel>
+    <text>6.4 How debuggers work: A brief introduction</text>
+    </navLabel>
+    <content src="book.html#filepos540659"/>
+    </navPoint>
+    <navPoint id="np_35" playOrder="35">
+    <navLabel>
+    <text>II Groundwork</text>
+    </navLabel>
+    <content src="book.html#filepos574709"/>
+    </navPoint>
+    <navPoint id="np_36" playOrder="36">
+    <navLabel>
+    <text>7 Bootloader</text>
+    </navLabel>
+    <content src="book.html#filepos574833"/>
+    </navPoint>
+    <navPoint id="np_37" playOrder="37">
+    <navLabel>
+    <text>7.2 Using BIOS services</text>
+    </navLabel>
+    <content src="book.html#filepos576886"/>
+    </navPoint>
+    <navPoint id="np_38" playOrder="38">
+    <navLabel>
+    <text>7.3 Boot process</text>
+    </navLabel>
+    <content src="book.html#filepos579975"/>
+    </navPoint>
+    <navPoint id="np_39" playOrder="39">
+    <navLabel>
+    <text>7.5 Compile and load</text>
+    </navLabel>
+    <content src="book.html#filepos582270"/>
+    </navPoint>
+    <navPoint id="np_40" playOrder="40">
+    <navLabel>
+    <text>7.6 Loading a program from bootloader</text>
+    </navLabel>
+    <content src="book.html#filepos592594"/>
+    </navPoint>
+    <navPoint id="np_41" playOrder="41">
+    <navLabel>
+    <text>7.7 Improve productivity with scripts</text>
+    </navLabel>
+    <content src="book.html#filepos604179"/>
+    </navPoint>
+    <navPoint id="np_42" playOrder="42">
+    <navLabel>
+    <text>8 Linking and loading on bare metal</text>
+    </navLabel>
+    <content src="book.html#filepos635813"/>
+    </navPoint>
+    <navPoint id="np_43" playOrder="43">
+    <navLabel>
+    <text>8.1 Understand relocations with readelf</text>
+    </navLabel>
+    <content src="book.html#filepos637501"/>
+    </navPoint>
+    <navPoint id="np_44" playOrder="44">
+    <navLabel>
+    <text>8.2 Crafting ELF binary with linker scripts</text>
+    </navLabel>
+    <content src="book.html#filepos672464"/>
+    </navPoint>
+    <navPoint id="np_45" playOrder="45">
+    <navLabel>
+    <text>8.3 C Runtime: Hosted vs Freestanding</text>
+    </navLabel>
+    <content src="book.html#filepos723613"/>
+    </navPoint>
+    <navPoint id="np_46" playOrder="46">
+    <navLabel>
+    <text>8.4 Debuggable bootloader on bare metal</text>
+    </navLabel>
+    <content src="book.html#filepos726092"/>
+    </navPoint>
+    <navPoint id="np_47" playOrder="47">
+    <navLabel>
+    <text>8.5 Debuggable program on bare metal</text>
+    </navLabel>
+    <content src="book.html#filepos730559"/>
+    </navPoint>
+    <navPoint id="np_48" playOrder="48">
+    <navLabel>
+    <text>III Kernel Programming</text>
+    </navLabel>
+    <content src="book.html#filepos780273"/>
+    </navPoint>
+    <navPoint id="np_49" playOrder="49">
+    <navLabel>
+    <text>9 x86 Descriptors</text>
+    </navLabel>
+    <content src="book.html#filepos780385"/>
+    </navPoint>
+    <navPoint id="np_50" playOrder="50">
+    <navLabel>
+    <text>9.2 Drivers</text>
+    </navLabel>
+    <content src="book.html#filepos784047"/>
+    </navPoint>
+    <navPoint id="np_51" playOrder="51">
+    <navLabel>
+    <text>9.4 Memory Segment</text>
+    </navLabel>
+    <content src="book.html#filepos786399"/>
+    </navPoint>
+    <navPoint id="np_52" playOrder="52">
+    <navLabel>
+    <text>10 Process</text>
+    </navLabel>
+    <content src="book.html#filepos787560"/>
+    </navPoint>
+    <navPoint id="np_53" playOrder="53">
+    <navLabel>
+    <text>10.3 Threads</text>
+    </navLabel>
+    <content src="book.html#filepos791371"/>
+    </navPoint>
+    <navPoint id="np_54" playOrder="54">
+    <navLabel>
+    <text>10.4 Task: x86 concept of a process</text>
+    </navLabel>
+    <content src="book.html#filepos793483"/>
+    </navPoint>
+    <navPoint id="np_55" playOrder="55">
+    <navLabel>
+    <text>10.7 Milestone: Code Refactor</text>
+    </navLabel>
+    <content src="book.html#filepos795678"/>
+    </navPoint>
+    <navPoint id="np_56" playOrder="56">
+    <navLabel>
+    <text>11 Interrupt</text>
+    </navLabel>
+    <content src="book.html#filepos796642"/>
+    </navPoint>
+    <navPoint id="np_57" playOrder="57">
+    <navLabel>
+    <text>12 Memory management</text>
+    </navLabel>
+    <content src="book.html#filepos796732"/>
+    </navPoint>
+    <navPoint id="np_58" playOrder="58">
+    <navLabel>
+    <text>13 File System</text>
+    </navLabel>
+    <content src="book.html#filepos799414"/>
+    </navPoint>
+    <navPoint id="np_59" playOrder="59">
+    <navLabel>
+    <text>Index</text>
+    </navLabel>
+    <content src="book.html#filepos800899"/>
+    </navPoint>
+    <navPoint id="np_60" playOrder="60">
+    <navLabel>
+    <text>Biblography</text>
+    </navLabel>
+    <content src="book.html#filepos805320"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Operating Systems: From 0 to 1</dc:title>
+<dc:language>en</dc:language>
+<dc:identifier id="uid">3020529534</dc:identifier>
+<dc:creator>Tu, Do Hoang</dc:creator>
+<dc:contributor>calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+<dc:source>calibre:922ad273-565f-4600-9cca-ba1c17c0acc3</dc:source>
+<dc:subject>LyX's additional features documentation</dc:subject>
+<dc:subject>LyX</dc:subject>
+<dc:subject>Documentation</dc:subject>
+<dc:subject>Additional</dc:subject>
+<dc:date opf:event="publication">2023-05-11T22:51:40.969525+00:00</dc:date>
+<meta name="output encoding" content="utf-8" />
+<!-- BEGIN INFORMATION ONLY 
+<meta name="ASIN" content="922ad273-565f-4600-9cca-ba1c17c0acc3" />
+<meta name="Content-Language-Tag" content="en" />
+<meta name="Updated_Title" content="Operating Systems: From 0 to 1" />
+<meta name="cdeType" content="EBOK" />
+<meta name="Creator-Software" content="201" />
+<meta name="Creator-Major-Version" content="1" />
+<meta name="Creator-Minor-Version" content="2" />
+<meta name="Creator-Build-Number" content="33307" />
+<meta name="StartOffset" content="109" />
+<meta name="Metadata-Record-Offset" content="0" />
+END INFORMATION ONLY -->
+</metadata>
+<manifest>
+<item id="item0" media-type="text/html" href="book.html" />
+<item id="item1" media-type="image/jpeg" href="Images/image00207.jpeg" />
+<item id="item2" media-type="image/jpeg" href="Images/image00208.jpeg" />
+<item id="item3" media-type="image/jpeg" href="Images/image00209.jpeg" />
+<item id="item4" media-type="image/jpeg" href="Images/image00210.jpeg" />
+<item id="item5" media-type="image/jpeg" href="Images/image00211.jpeg" />
+<item id="item6" media-type="image/jpeg" href="Images/image00212.jpeg" />
+<item id="item7" media-type="image/jpeg" href="Images/image00213.jpeg" />
+<item id="item8" media-type="image/jpeg" href="Images/image00214.jpeg" />
+<item id="item9" media-type="image/jpeg" href="Images/image00215.jpeg" />
+<item id="item10" media-type="image/jpeg" href="Images/image00216.jpeg" />
+<item id="item11" media-type="image/jpeg" href="Images/image00217.jpeg" />
+<item id="item12" media-type="image/jpeg" href="Images/image00218.jpeg" />
+<item id="item13" media-type="image/jpeg" href="Images/image00219.jpeg" />
+<item id="item14" media-type="image/jpeg" href="Images/image00220.jpeg" />
+<item id="item15" media-type="image/jpeg" href="Images/image00221.jpeg" />
+<item id="item16" media-type="image/jpeg" href="Images/image00222.jpeg" />
+<item id="item17" media-type="image/jpeg" href="Images/image00223.jpeg" />
+<item id="item18" media-type="image/jpeg" href="Images/image00224.jpeg" />
+<item id="item19" media-type="image/jpeg" href="Images/image00225.jpeg" />
+<item id="item20" media-type="image/jpeg" href="Images/image00226.jpeg" />
+<item id="item21" media-type="image/jpeg" href="Images/image00227.jpeg" />
+<item id="item22" media-type="image/jpeg" href="Images/image00228.jpeg" />
+<item id="item23" media-type="image/jpeg" href="Images/image00229.jpeg" />
+<item id="item24" media-type="image/jpeg" href="Images/image00230.jpeg" />
+<item id="item25" media-type="image/jpeg" href="Images/image00231.jpeg" />
+<item id="item26" media-type="image/jpeg" href="Images/image00232.jpeg" />
+<item id="item27" media-type="image/jpeg" href="Images/image00233.jpeg" />
+<item id="item28" media-type="image/jpeg" href="Images/image00234.jpeg" />
+<item id="item29" media-type="image/jpeg" href="Images/image00235.jpeg" />
+<item id="item30" media-type="image/jpeg" href="Images/image00236.jpeg" />
+<item id="item31" media-type="image/jpeg" href="Images/image00237.jpeg" />
+<item id="item32" media-type="image/jpeg" href="Images/image00238.jpeg" />
+<item id="item33" media-type="image/jpeg" href="Images/image00239.jpeg" />
+<item id="item34" media-type="image/jpeg" href="Images/image00240.jpeg" />
+<item id="item35" media-type="image/jpeg" href="Images/image00241.jpeg" />
+<item id="item36" media-type="image/jpeg" href="Images/image00242.jpeg" />
+<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="item0"/>
+</spine>
+<tours>
+</tours>
+<guide>
+<reference type="toc" title="Table of Contents" href="book.html#filepos814478" />
+<reference type="text" href="book.html#filepos109" />
+</guide>
+</package>
